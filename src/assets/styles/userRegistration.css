@@ -1,0 +1,40 @@
+.user-registration-container{
+    display: flex; 
+    justify-content: center; 
+}
+
+img.LAAPS-logo{
+    display: block;
+    margin: auto; 
+    text-align: center;
+    width: 60%; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    
+}
+
+.form-container{
+    display: flex; 
+    flex-direction: column;
+}
+
+button.btn{
+    width: 140px; 
+    display: block;
+    margin: auto; 
+}
+
+h4.registro{
+    font-size: 24px; 
+    font-weight: bold;   
+    display: block;
+    margin: auto; 
+    text-align: center;  
+    margin-bottom: 20px; 
+}
+
+.input-form{
+    display: flex; 
+    justify-items: center;
+    flex-direction: column;
+}
